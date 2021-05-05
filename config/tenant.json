@@ -7,29 +7,13 @@
   "brandDescription": "Explore and use our APIs to build, test, certify, and deploy solutions pre-integrated to our market-leading account processing platforms.",
    "categories": [    
     {
-      "name": "bankingCores",
-      "value": "Banking Cores",
+      "name": "businessFunction",
+      "value": "Business Function",
       "subcategories": [
         {
           "name": "cashManagement",
           "value": "Cash Management",
           "description": "APIs for commercial payment services that support both payables and receivables needs of business clients"
-        }
-      ]
-    },
-    {
-      "name": "businessSegments",
-      "value": "Business Segments",
-      "subcategories": [
-        {
-          "name": "b2B",
-          "value": "B2B",
-          "description": "Identify APIs that support business-to-business banking functions"
-        },
-        {
-          "name": "b2C",
-          "value": "B2C",
-          "description": "Identify APIs that support business-to-consumer banking functions"
         }
       ]
     }
