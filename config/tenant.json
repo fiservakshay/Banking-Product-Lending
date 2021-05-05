@@ -11,21 +11,6 @@
       "value": "Banking Cores",
       "subcategories": [
         {
-          "name": "precision",
-          "value": "Precision",
-          "description": "Identify APIs that enable integration to the Precision bank platform"
-        },
-        {
-          "name": "cleartouch",
-          "value": "Cleartouch",
-          "description": "Identify APIs that enable integration to the Cleartouch bank platform"
-        },
-        {
-          "name": "signature",
-          "value": "Signature",
-          "description": "Identify APIs that enable integration to the Signature bank platform"
-        },
-        {
           "name": "dNA",
           "value": "DNA",
           "description": "Identify APIs that enable integration to the DNA platform"
