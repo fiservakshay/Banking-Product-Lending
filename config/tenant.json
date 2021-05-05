@@ -11,9 +11,9 @@
       "value": "Banking Cores",
       "subcategories": [
         {
-          "name": "dNA",
-          "value": "DNA",
-          "description": "Identify APIs that enable integration to the DNA platform"
+          "name": "cashManagement",
+          "value": "Cash Management",
+          "description": "APIs for commercial payment services that support both payables and receivables needs of business clients"
         }
       ]
     },
