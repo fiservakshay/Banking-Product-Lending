@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Collateral Service
+  title: Collateral Service title of doc
   description: The Collateral service supports operations managing collateral management.
   contact:
     name: Tracy Dahle
